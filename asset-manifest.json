@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IMAGES-GALLARY-APP/static/css/main.d84f81c2.css",
+    "main.js": "/IMAGES-GALLARY-APP/static/js/main.c14ece9e.js",
+    "static/js/787.69a9d02d.chunk.js": "/IMAGES-GALLARY-APP/static/js/787.69a9d02d.chunk.js",
+    "index.html": "/IMAGES-GALLARY-APP/index.html",
+    "main.d84f81c2.css.map": "/IMAGES-GALLARY-APP/static/css/main.d84f81c2.css.map",
+    "main.c14ece9e.js.map": "/IMAGES-GALLARY-APP/static/js/main.c14ece9e.js.map",
+    "787.69a9d02d.chunk.js.map": "/IMAGES-GALLARY-APP/static/js/787.69a9d02d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d84f81c2.css",
+    "static/js/main.c14ece9e.js"
+  ]
+}
